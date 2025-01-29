@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/dhiraj_kumar_02" target="blank"><img src="https://img.shields.io/twitter/follow/dhiraj_kumar_02?logo=twitter&style=for-the-badge" alt="dhiraj_kumar_02" /></a> </p>
 
-- 🔭 I’m currently working on **Hospital Management System**
+- 🔭 I’m currently working on **Banking Application - Spring Boot**
 
 - 🌱 I’m currently learning **Spring Boot and React**
 
-- 💬 Ask me about **Java, SQL, or Web Development**
+- 💬 Ask me about **Java, SQL, JDBC, Servlet, Hibernate with JPA, Spring MVC and Web Technology (HTML/CSS/JS)**
 
 - 📫 How to reach me **dhirajkumarsaah@gmail.com**
 

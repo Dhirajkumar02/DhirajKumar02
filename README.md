@@ -1,5 +1,3 @@
-## My Personal Portfolio: ( http://127.0.0.1:5500/Personal%20Portfolio/index.html#)
-
 ![MasterHead](https://github.com/user-attachments/assets/1a41bd63-4deb-4536-90e1-9e884d400d2e)
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar</h1>
 <h3 align="center">A passionate Java Full Stack Web Developer from India</h3>

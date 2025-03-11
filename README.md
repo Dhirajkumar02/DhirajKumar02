@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/1a41bd63-4deb-4536-90e1-9e884d400d2e)
+![My Portfolio](https://github.com/user-attachments/assets/487dfc08-4c02-409f-9e77-dffa217452ee)
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar</h1>
 <h3 align="center">A passionate Java Full Stack Web Developer from India</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->

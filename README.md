@@ -28,6 +28,23 @@
  </a> 
 </p>
 
+---
+## About Me
+ <!-- <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a> -->
+<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="250" height="250" /></a>
+- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Software Enthusiast ❤️
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+- 📚 Founder <b>[**Coding With Dhiraj**](https://www.linkedin.com/in/dhirajkumar02/)</b>
+- 📘 I’m Currently Studying **Devops**
+  <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 📔 Live [**MyResume**](https://dhirajkumar02.github.io/My-Portfolio/)
+- 🔭 I’m currently working on **Banking Application & E-Commerece Website Using Spring Boot**
+  <!-- - 🌱 I’m currently learning **Spring Boot and React** -->
+- 💬 Ask me about **Java, SQL, JDBC, Servlet, Hibernate, Spring and Web Technology (HTML/CSS/JS)**
+- 📫 How to reach me **dhirajkumarsaah@gmail.com**
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajkumar02&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajkumar02" /> </p>
 
@@ -35,13 +52,6 @@
 
 <p align="left"> <a href="https://twitter.com/dhiraj_kumar_02" target="blank"><img src="https://img.shields.io/twitter/follow/dhiraj_kumar_02?logo=twitter&style=for-the-badge" alt="dhiraj_kumar_02" /></a> </p>
 
-- 🔭 I’m currently working on **Banking Application - Spring Boot**
-
-- 🌱 I’m currently learning **Spring Boot and React**
-
-- 💬 Ask me about **Java, SQL, JDBC, Servlet, Hibernate with JPA, Spring MVC and Web Technology (HTML/CSS/JS)**
-
-- 📫 How to reach me **dhirajkumarsaah@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

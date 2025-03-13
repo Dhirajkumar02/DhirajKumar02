@@ -56,7 +56,7 @@
 <img src="he.png" height="40px" width="40px"> 
 <img src="cc.png" height="40px" width="40px">
 <img src="ib.png" height="40px" width="40px">
-<!-- <img src="cf.png" height="40px" width="40px"> -->
+<img src="cf.png" height="40px" width="40px">
 <!-- <img src="wk.png" height="40px" width="40px"> -->
 
 </p> 

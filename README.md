@@ -1,4 +1,6 @@
-![My Portfolio](https://github.com/user-attachments/assets/487dfc08-4c02-409f-9e77-dffa217452ee)
+<p align="left"> 
+<img src="My Portfolio.png" height="" width="">
+</p>
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar</h1>
 <h3 align="center">A passionate Java Full Stack Web Developer from India</h3>
 <p align="center"><b>Java Full Stack Developer at JSpiders - Training & Development Center with expertise in Java Programming || JDBC || Hibernate || Servlet || JSP || Spring Framework || Oracle SQL || HTML5 || CSS || JavaScript || Bootstrap || ReactJS || DSA || Problem Solving</b></p>

@@ -31,7 +31,7 @@
 ---
 ## About Me
  <!-- <a><img align="right" src="MyLCGoldBedge.gif" width="350" height="240" /></a> -->
-<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="250" height="250" /></a>
+<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="280" height="280" /></a>
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Software Enthusiast ❤️
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 📚 Founder <b>[**Coding With Dhiraj**](https://www.linkedin.com/in/dhirajkumar02/)</b>
@@ -46,6 +46,21 @@
 
 ---
 
+## ❤️ I'm Code on (DSA)
+
+<p align="left"> 
+<img src="lc.png" height="40px" width="40px">
+<img src="gfg.png" height="40px" width="40px">
+<img src="cn.png" height="40px" width="40px">
+<img src="hr.png" height="40px" width="40px">
+<img src="he.png" height="40px" width="40px"> 
+<img src="cc.png" height="40px" width="40px">
+<img src="ib.png" height="40px" width="40px">
+<!-- <img src="cf.png" height="40px" width="40px"> -->
+<!-- <img src="wk.png" height="40px" width="40px"> -->
+
+</p> 
+---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajkumar02&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajkumar02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhirajkumar02" alt="dhirajkumar02" /></a> </p>

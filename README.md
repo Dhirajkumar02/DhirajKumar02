@@ -1,5 +1,5 @@
 <p align="left"> 
-<img src="My Portfolio.png" height="" width="">
+<img src="Banner.jpg" height="" width="">
 </p>
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar</h1>
 <h3 align="center">A passionate Java Full Stack Web Developer from India</h3>

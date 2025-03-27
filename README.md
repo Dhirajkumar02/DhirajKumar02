@@ -7,9 +7,9 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <p align="center">  
-    <!-- <a href="https://www.youtube.com/@CodingWithDhiraj" target="_blank"> -->
+    <!-- <a href="https://www.youtube.com/@CodingWithDhiraj" target="_blank"> 
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
- </a> 
+ </a> -->
  <a href="https://www.linkedin.com/in/dhirajkumar02/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>

@@ -94,7 +94,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Dhirajkumar02/github-profile-views-counter">
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Dhirajkumar02">
 </a>
-<a href="https://github.com/Dhirajkumar02?tab=followers"><img src="https://img.shields.io/github/followers/Dhirajkuma02?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Dhirajkumar02?tab=followers"><img src="https://img.shields.io/github/followers/Dhirajkumar02?label=Followers&style=social" alt="GitHub Badge"></a>

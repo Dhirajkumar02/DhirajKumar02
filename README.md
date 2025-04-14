@@ -31,6 +31,23 @@
 </p>
 
 ---
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Dhirajkumar02">
+</a>
+<a href="https://github.com/Dhirajkumar02?tab=followers"><img src="https://img.shields.io/github/followers/Dhirajkumar02?label=Followers&style=social" alt="GitHub Badge"></a>
+
+---
+## 📧 Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/dhirajkumar02/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://x.com/Dhiraj_kumar_02"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/er.dhirajkumargupta/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!-- <a href = "https://www.youtube.com/@CodingWithDhiraj"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+</p>
+
+---
 ## About Me
 
 <!-- <a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="330" height="330" /></a> -->
@@ -84,17 +101,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Dhirajkumar02&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-## 📧 Connect with me:
-<p align="left">
-<a href = "https://www.linkedin.com/in/dhirajkumar02/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://x.com/Dhiraj_kumar_02"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/er.dhirajkumargupta/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<!-- <a href = "https://www.youtube.com/@CodingWithDhiraj"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
-</p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Dhirajkumar02">
-</a>
-<a href="https://github.com/Dhirajkumar02?tab=followers"><img src="https://img.shields.io/github/followers/Dhirajkumar02?label=Followers&style=social" alt="GitHub Badge"></a>
+
+

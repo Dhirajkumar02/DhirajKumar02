@@ -33,10 +33,10 @@
 ---
 ## About Me
 
-<a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="330" height="330" /></a>
+<!-- <a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="330" height="330" /></a> -->
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Software Enthusiast ❤️
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 📚 Founder <b>[**Coding With Dhiraj**](https://www.linkedin.com/in/dhirajkumar02/)</b>
+<!-- - 📚 Founder <b>[**Coding With Dhiraj**](https://www.linkedin.com/in/dhirajkumar02/)</b> -->
 - 📘 I’m Currently Studying **Devops**
   <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
 - 👯 I’m looking to collaborate on **OpenSource Projects**
@@ -57,8 +57,8 @@
 <img src="hr.png" height="40px" width="40px">
 <img src="he.png" height="40px" width="40px"> 
 <img src="cc.png" height="40px" width="40px">
-<img src="ib.png" height="40px" width="40px">
-<img src="cf.png" height="40px" width="40px">
+<!-- <img src="ib.png" height="40px" width="40px"> -->
+<!-- <img src="cf.png" height="40px" width="40px"> -->
 <!-- <img src="wk.png" height="40px" width="40px"> -->
 </p> 
 
@@ -90,11 +90,11 @@
 <a href = "https://www.linkedin.com/in/dhirajkumar02/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://x.com/Dhiraj_kumar_02"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/er.dhirajkumargupta/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/@CodingWithDhiraj"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<!-- <a href = "https://www.youtube.com/@CodingWithDhiraj"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/Dhirajkumar02/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Dhirajkumar02">
 </a>
 <a href="https://github.com/Dhirajkumar02?tab=followers"><img src="https://img.shields.io/github/followers/Dhirajkuma02?label=Followers&style=social" alt="GitHub Badge"></a>

@@ -68,8 +68,8 @@
 ## ❤️ I'm Code on (DSA)
 
 <p align="left"> 
-<img src="lc.png" height="40px" width="40px">
-<img src="gfg.png" height="40px" width="40px">
+<img src="lc.png" height="40px" width="40px">https://leetcode.com/u/dhirajkumar02/
+<img src="gfg.png" height="40px" width="40px">https://www.geeksforgeeks.org/user/dhirajkumar02/
 <img src="cn.png" height="40px" width="40px">
 <img src="hr.png" height="40px" width="40px">
 <img src="he.png" height="40px" width="40px"> 

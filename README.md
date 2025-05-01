@@ -68,30 +68,29 @@
 ## ❤️ I'm Code on (DSA)
 
 <p align="left"> 
-  <a href="https://leetcode.com/u/dhirajkumar02/" target="_blank" rel="noopener noreferrer">
+  <a href="https://leetcode.com/u/dhirajkumar02/" target="_blank">
     <img src="lc.png" alt="LeetCode" height="40px" width="40px">
   </a>
-  <a href="https://www.geeksforgeeks.org/user/dhirajkumar02" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.geeksforgeeks.org/user/dhirajkumar02" target="_blank">
     <img src="gfg.png" alt="GeeksforGeeks" height="40px" width="40px">
   </a>
-  <a href="https://www.naukri.com/code360/profile/Dhirajkumar_33" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.naukri.com/code360/profile/Dhirajkumar_33" target="_blank">
     <img src="cn.png" alt="Coding Ninjas" height="40px" width="40px">
   </a>
-  <a href="https://www.hackerrank.com/profile/dhirajkumar62413" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.hackerrank.com/profile/dhirajkumar62413" target="_blank">
     <img src="hr.png" alt="HackerRank" height="40px" width="40px">
   </a>
-  <a href="https://www.hackerearth.com/@dhirajkumar62413/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.hackerearth.com/@dhirajkumar62413/" target="_blank">
     <img src="he.png" alt="HackerEarth" height="40px" width="40px">
   </a>
-  <a href="https://www.codechef.com/users/dhirajkumar02" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.codechef.com/users/dhirajkumar02" target="_blank">
     <img src="cc.png" alt="CodeChef" height="40px" width="40px">
   </a>
-  <!-- Optional future platforms -->
+  <!-- Uncomment these when you add the links -->
   <!-- <img src="ib.png" height="40px" width="40px"> -->
   <!-- <img src="cf.png" height="40px" width="40px"> -->
   <!-- <img src="wk.png" height="40px" width="40px"> -->
 </p>
-
 
 
 ---

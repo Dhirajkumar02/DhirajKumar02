@@ -7,9 +7,6 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <p align="center">  
-    <a href="https://www.youtube.com/channel/UCH1PbAwlN7ygNlUEEGVZ-3w" target="_blank"> 
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
- </a>
  <a href="https://www.linkedin.com/in/dhirajkumar02/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
@@ -28,6 +25,9 @@
    <a href="mailto:dhirajkumarsaah@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Dhiraj Kumar" />
  </a> 
+<a href="https://www.youtube.com/channel/UCH1PbAwlN7ygNlUEEGVZ-3w" target="_blank"> 
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+ </a>
 </p>
 
 ---

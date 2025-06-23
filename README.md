@@ -7,9 +7,9 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <p align="center">  
-    <!-- <a href="https://www.youtube.com/@CodingWithDhiraj" target="_blank"> 
+    <a href="https://www.youtube.com/channel/UCH1PbAwlN7ygNlUEEGVZ-3w" target="_blank"> 
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
- </a> -->
+ </a>
  <a href="https://www.linkedin.com/in/dhirajkumar02/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
@@ -58,8 +58,8 @@
   <!-- - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** -->
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📔 Live [**MyResume**](https://dhirajkumar02.github.io/My-Portfolio/)
-- 🔭 I’m currently working on **Banking Application & E-Commerece Website Using Spring Boot**
-  <!-- - 🌱 I’m currently learning **Spring Boot and React** -->
+<-- - 🔭 I’m currently working on **Banking Application & E-Commerece Website Using Spring Boot** -->
+-  - 🌱 I’m currently working on **Spring Boot and React**
 - 💬 Ask me about **Java, SQL, JDBC, Servlet, Hibernate, Spring and Web Technology (HTML/CSS/JS)**
 - 📫 How to reach me **dhirajkumarsaah@gmail.com**
 

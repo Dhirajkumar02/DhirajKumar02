@@ -44,7 +44,7 @@
 <a href = "https://www.linkedin.com/in/dhirajkumar02/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://x.com/Dhiraj_kumar_02"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/er.dhirajkumargupta/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<!-- <a href = "https://www.youtube.com/@CodingWithDhiraj"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
+<a href = "https://www.youtube.com/channel/UCH1PbAwlN7ygNlUEEGVZ-3w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
 ---

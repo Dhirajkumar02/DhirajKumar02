@@ -16,7 +16,7 @@
  <a href="https://x.com/Dhiraj_kumar_02" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
  </a>
- <a href="https://www.instagram.com/er.dhirajkumargupta/" target="_blank">
+ <a href="https://www.instagram.com/er.dhirajkumar02/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 <!--  </a> 
     <a href="" target="blank">
@@ -43,7 +43,7 @@
 <p align="left">
 <a href = "https://www.linkedin.com/in/dhirajkumar02/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://x.com/Dhiraj_kumar_02"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/er.dhirajkumargupta/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/er.dhirajkumar02/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCH1PbAwlN7ygNlUEEGVZ-3w"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 

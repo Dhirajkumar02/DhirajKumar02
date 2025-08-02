@@ -54,12 +54,12 @@
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Software Enthusiast ❤️
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 - 📚 Founder of <b>[**Teczeon**](https://www.linkedin.com/in/dhirajkumar02/)</b> 
-<-- -📘 I’m Currently Studying **Devops** -->
+<!-- -📘 I’m Currently Studying **Devops** -->
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 📔 Live [**MyResume**](https://dhirajkumar02.github.io/My-Portfolio/)
 - 🔭 I’m currently working on **Blogy Tech App & E-Commerece Website Using React, NodeJS and Spring Boot**
--  - 🌱 I’m currently working on **Spring Boot and React**
+- 🌱 I’m currently working on **Spring Boot and React**
 - 💬 Ask me about **Java, SQL, JDBC, Servlet, Hibernate, Spring and Web Technology (HTML/CSS/JS)**
 - 📫 How to reach me **dhirajkumarsaah@gmail.com**
 

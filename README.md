@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Dhiraj Kumar</h1>
 <h3 align="center">A passionate Java Full Stack Web Developer from India</h3>
-<p align="center"><b>Java Full Stack Developer at JSpiders - Training & Development Center with expertise in Java Programming || JDBC || Hibernate || Servlet || JSP || Spring Framework || Oracle SQL || HTML5 || CSS || JavaScript || Bootstrap || ReactJS || DSA || Problem Solving</b></p>
+<p align="center"><b>Building web apps with Java Spring & React || MERN stack enthusiast.</b></p>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 <p align="center">  
@@ -56,7 +56,7 @@
 - 📚 Founder of <b>[**Teczeon**](https://www.linkedin.com/in/dhirajkumar02/)</b> 
 <!-- -📘 I’m Currently Studying **Devops** -->
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to collaborate on **OpenSource Projects & Freelancing**
 - 📔 Portfolio [**My Portfolio**](https://dhirajkumar02.github.io/My-Portfolio/)
 - 🔭 I’m currently working on **Blogy Tech App & E-Commerece Website Using React, NodeJS and Spring Boot**
 - 🌱 I’m currently working on **Spring Boot and React**

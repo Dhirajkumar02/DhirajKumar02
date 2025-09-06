@@ -105,7 +105,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Dhirajkumar02&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhirajkumar02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
+## 📈 Graph
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dhirajkumar02&theme=radical&no-frame=false&no-bg=true&margin-w=4)

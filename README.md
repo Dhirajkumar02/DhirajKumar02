@@ -53,7 +53,7 @@
 <a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="330" height="330" /></a>
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Software Enthusiast ❤️
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 📚 Founder of <b>[**Teczeon**](https://www.linkedin.com/in/dhirajkumar02/)</b> 
+- 📚 Building <b>[**Teczeon**](https://www.linkedin.com/in/dhirajkumar02/)</b> 
 <!-- -📘 I’m Currently Studying **Devops** -->
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** 
 - 👯 I’m looking to collaborate on **OpenSource Projects & Freelancing**
@@ -121,44 +121,39 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>Node.js</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
+   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" /><br>.NET</td>
   </tr>
 
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dotnet" width="55" height="55" /><br>.NET</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" width="55" height="55" /><br>Hibernate</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring" width="55" height="55" /><br>Spring Boot</td>
-  </tr>
-
-  <!-- Databases -->
-  <tr>
+   <!-- Databases -->
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="55" height="55" /><br>Oracle</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=firebase" width="55" height="55" /><br>Firebase</td>
-  </tr>
-
-  <!-- Cloud & DevOps -->
-  <tr>
+   <!-- Cloud & DevOps -->
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55" /><br>Jenkins</td>
+  </tr>
+  <!-- Cloud & DevOps -->
+  <tr>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" width="55" height="55" /><br>Maven</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" width="55" height="55" /><br>Tomcat</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
-  </tr>
-
-  <!-- Tools -->
-  <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
+   <!-- Tools -->
+   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=gitlab" width="55" height="55" /><br>GitLab</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br>Postman</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jira" width="55" height="55" /><br>Jira</td>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/GitHub%20Copilot-blue?style=for-the-badge&logo=github&logoColor=white" width="55" height="55" /><br>GitHub Copilot</td>
   </tr>
 
+  <!-- Tools -->
   <!-- IDEs -->
   <tr>
+    <td align="center" width="90"><img src="https://img.shields.io/badge/GitHub%20Copilot-blue?style=for-the-badge&logo=github&logoColor=white" width="55" height="55" /><br>GitHub Copilot</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" width="55" height="55" /><br>Eclipse</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white" width="55" height="55" /><br>Spring Tool Suite</td>

@@ -135,10 +135,10 @@
    <!-- Cloud & DevOps -->
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55" /><br>Jenkins</td>
+   <td align="center" width="90"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" width="55" height="55" /><br>Maven</td>
   </tr>
   <!-- Cloud & DevOps -->
   <tr>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" width="55" height="55" /><br>Maven</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apache-tomcat&logoColor=black" width="55" height="55" /><br>Tomcat</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
@@ -148,26 +148,24 @@
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=gitlab" width="55" height="55" /><br>GitLab</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br>Postman</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jira" width="55" height="55" /><br>Jira</td>
+   <td align="center" width="90"><img src="https://img.shields.io/badge/GitHub%20Copilot-blue?style=for-the-badge&logo=github&logoColor=white" width="55" height="55" /><br>GitHub Copilot</td>
   </tr>
 
   <!-- Tools -->
   <!-- IDEs -->
   <tr>
-    <td align="center" width="90"><img src="https://img.shields.io/badge/GitHub%20Copilot-blue?style=for-the-badge&logo=github&logoColor=white" width="55" height="55" /><br>GitHub Copilot</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" width="55" height="55" /><br>Eclipse</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white" width="55" height="55" /><br>Spring Tool Suite</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=idea" width="55" height="55" /><br>IntelliJ IDEA</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" width="55" height="55" /><br>PyCharm</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white" width="55" height="55" /><br>NetBeans</td>
-  </tr>
-
-  <!-- Design -->
-  <tr>
+    <!-- Design -->
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" width="55" height="55" /><br>Canva</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" width="55" height="55" /><br>Photoshop</td>
   </tr>
+  
 </table>
 
 

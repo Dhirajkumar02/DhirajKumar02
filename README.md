@@ -59,7 +59,7 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects & Freelancing**
 - 📔 Portfolio [**My Portfolio**](https://dhirajkumar02.github.io/My-Portfolio/)
 - 🔭 I’m currently working on **Blogy Tech App & E-Commerece Website Using React, NodeJS and Spring Boot**
-- 🌱 I’m currently working on **Spring Boot and React**
+- 🌱 I’m currently working on **Spring Boot , React and NodeJS**
 - 💬 Ask me about **Java, SQL, JDBC, Servlet, Hibernate, Spring and Web Technology (HTML/CSS/JS)**
 - 📫 How to reach me **dhirajkumarsaah@gmail.com**
 

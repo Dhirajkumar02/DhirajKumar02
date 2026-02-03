@@ -53,13 +53,13 @@
 <a><img align="right" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" width="330" height="330" /></a>
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. Software Enthusiast ❤️
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
-- 📚 Building <b>[**Teczeon**](https://www.linkedin.com/in/dhirajkumar02/)</b> 
+- 📚 Building <b>[**Teczeon**](https://www.linkedin.com/company/teczeon/?viewAsMember=true)</b> 
 <!-- -📘 I’m Currently Studying **Devops** -->
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** 
 - 👯 I’m looking to collaborate on **OpenSource Projects & Freelancing**
 - 📔 Portfolio [**My Portfolio**](https://dhirajkumar02.github.io/My-Portfolio/)
 - 🔭 I’m currently working on **Blogy Tech App & E-Commerece Website Using React, NodeJS and Spring Boot**
-- 🌱 I’m currently working on **Spring Boot , React and NodeJS**
+- 🌱 I’m currently working on **C++, Java , Qt, Spring Boot**
 - 💬 Ask me about **Java, SQL, JDBC, Servlet, Hibernate, Spring and Web Technology (HTML/CSS/JS)**
 - 📫 How to reach me **dhirajkumarsaah@gmail.com**
 

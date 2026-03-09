@@ -127,14 +127,15 @@
   <tr>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" width="55" height="55" /><br>Hibernate</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring" width="55" height="55" /><br>Spring Boot</td>
-   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=qt" width="55" height="55" /><br>Qt 5</td>
+   
    <!-- Databases -->
+   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=qt" width="55" height="55" /><br>Qt 5</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
     <td align="center" width="90"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="55" height="55" /><br>Oracle</td>
     
    <!-- Cloud & DevOps -->
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
+   <td align="center" width="90"><img src="https://skillicons.dev/icons?i=aws" width="55" height="55" /><br>AWS</td>
     <td align="center" width="90"><img src="https://skillicons.dev/icons?i=jenkins" width="55" height="55" /><br>Jenkins</td>
    <td align="center" width="90"><img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" width="55" height="55" /><br>Maven</td>
   </tr>

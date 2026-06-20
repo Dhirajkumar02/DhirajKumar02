@@ -57,7 +57,7 @@
 <!-- -📘 I’m Currently Studying **Devops** -->
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭** 
 - 👯 I’m looking to collaborate on **OpenSource Projects & Freelancing**
-- 📔 Portfolio [**My Portfolio**](https://dhirajkumar02.github.io/My-Portfolio/)
+- 📔 Portfolio [**My Portfolio**](https://dhirajkumargupta.vercel.app/)
 - 🔭 I’m currently working on **Blogy Tech App & E-Commerece Website Using React, NodeJS and Spring Boot**
 - 🌱 I’m currently working on **C++, Java , Qt, Spring Boot**
 - 💬 Ask me about **Java, SQL, JDBC, Servlet, Hibernate, Spring and Web Technology (HTML/CSS/JS)**
